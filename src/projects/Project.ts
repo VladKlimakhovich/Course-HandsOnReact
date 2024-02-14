@@ -4,7 +4,7 @@ export class Project{
     description: string = '';
     imageUrl: string = '';
     contractTypeId: number | undefined;
-    contractSignedOn: Date = new Date();
+    contractSignedOn: string="";
     budget: number = 0;
     isActive: boolean = false;
     get isNew(): boolean {
