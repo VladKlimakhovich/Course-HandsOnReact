@@ -768,7 +768,7 @@
       "contractTypeId": 6,
       "contractSignedOn": "2018-08-16T18:49:06.477Z",
       "budget": 133,
-      "isActive": true
+      "isActive": false
     },
     {
       "id": 78,
